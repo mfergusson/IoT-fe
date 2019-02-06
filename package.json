@@ -1,0 +1,23 @@
+{
+  "name": "iot-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanvaughan/IoT-Product.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanvaughan/IoT-Product/issues"
+  },
+  "homepage": "https://github.com/stefanvaughan/IoT-Product#readme",
+  "description": ""
+}
