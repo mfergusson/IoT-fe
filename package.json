@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "hapi": "^18.1.0"
+    "jQuery": "^1.7.4"
   },
   "devDependencies": {},
   "scripts": {
